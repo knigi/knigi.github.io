@@ -59,6 +59,7 @@ footer {
     color: #a4a4a4;
     font-size: 20px;
     font-style: italic;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
