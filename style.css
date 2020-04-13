@@ -54,10 +54,10 @@ main p {
 }
 
 footer {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
-    height: 132px;
+    height: 30px;
     background-color: #434445;
     color: #a4a4a4;
     font-size: 20px;
