@@ -53,6 +53,13 @@ main img {
     padding-bottom: 3%;
 }
 
+caption {
+caption-side: bottom;
+text-align: right;
+padding: 10px 0; 
+font-size: 14px;
+}
+
 main p {
     width: 693px;
     color: #242424;
