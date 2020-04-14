@@ -54,10 +54,10 @@ main img {
 }
 
 caption {
-caption-side: bottom;
-text-align: right;
+caption-side: top;
+text-align: center;
 padding: 10px 0; 
-font-size: 14px;
+font-size: 34px;
 }
 
 main p {
